@@ -1,6 +1,5 @@
 # 🏮 Welcome to My Space
 > "让我们重新开始"
-> *"우리 다시 시작하자."*
 > — Happy Together (1997)
 ---
 ### About Me
@@ -8,6 +7,6 @@
 
 ### Interests
 * **Programming**: C, C++, C#, Python
-* **Media & Arts**: Cinema, Electronic Music, K-Hiphop, Hiphop
+* **Media & Arts**: Cinema, Electronic Music, K Hip-hop, Hip-hop
 * **Literature**: Classic Novel, Manga
 ---
