@@ -1,4 +1,4 @@
-# 🏮 Welcome to My Space
+# Welcome to My Space
 > "让我们重新开始"
 > — 春光乍洩 (1997)
 ---
