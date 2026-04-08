@@ -3,7 +3,7 @@
 > — 春光乍洩 (1997)
 ---
 ### About Me
-* **CS Major & Educator**: A high school teacher who majored in CE.
+* **CE Major & Educator**: A high school teacher who majored in CE.
 
 ### Interests
 * **Programming**: C, C++, C#, Python
